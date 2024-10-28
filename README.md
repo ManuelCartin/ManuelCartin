@@ -7,7 +7,7 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
-I am Manuel Cartín ernández Al,I'm currently pursuing my Bachelors in data science from [Fidélitas University](https://ufidelitas.ac.cr/).  .
+I am Manuel Cartín ernández Al,I'm currently pursuing my Bachelors in data science from [Fidélitas University](https://ufidelitas.ac.cr/). for that i study data engineer in ibm .
 <br/>
 <br/>
 
