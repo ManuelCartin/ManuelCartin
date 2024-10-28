@@ -25,6 +25,12 @@ I am Manuel Cartín ernández Al,I'm currently pursuing my Bachelors in data sci
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/GovindSingh9447/GovindSingh9447/issues/2) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Enjoy the journey.***
+## 🔥 Streak Stats & Languages
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelCartin&theme=algolia" alt="jaypavasiya" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCartin&theme=algolia&layout=compact" alt="jaypavasiya" /></p>
+
+<br>
+<hr/>
 
 <br/>
 <br/>
