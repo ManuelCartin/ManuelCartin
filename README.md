@@ -7,7 +7,7 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
-I am Manuel Cartín Hernández ,I'm currently pursuing my Bachelors in data science from [Fidélitas University](https://ufidelitas.ac.cr/). i'm still working my skills, for that i study data engineer in [IBM] (https://www.coursera.org/professional-certificates/ibm-data-engineer)  and Data Science Professional Certificate(https://www.coursera.org/professional-certificates/ibm-data-science&ved=2ahUKEwjg8oX6382LAxWMQTABHceiBaMQjjh6BAgnEAE&sqi=2&usg=AOvVaw29PzQCzISwvQFBgzOCSaxq). my hobbies is related to simracing, yugioh, learn italian and english,watch the F1, and any motorsport. i like the coffe and the cats. 
+I am Manuel Cartín Hernández ,I'm currently pursuing my Bachelors in data science from [Fidélitas University](https://ufidelitas.ac.cr/). i'm still working my skills, for that i study data engineer in [IBM] (https://www.coursera.org/professional-certificates/ibm-data-engineer)  and Data Science Professional Certificate [IBM] (https://www.coursera.org/professional-certificates/ibm-data-science). my hobbies is related to simracing, yugioh, learn italian and english,watch the F1, and any motorsport. i like the coffe and the cats. 
 <br/>
 <br/>
 
