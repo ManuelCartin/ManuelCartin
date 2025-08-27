@@ -7,7 +7,12 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
-I am Manuel Cartín Hernández ,I'm currently pursuing my Bachelors in data science from [Fidélitas University](https://ufidelitas.ac.cr/). i'm still working my skills, for that i study data engineer in [IBM] (https://www.coursera.org/professional-certificates/ibm-data-engineer) and Data Science Professional Certificate [IBM] (https://www.coursera.org/professional-certificates/ibm-data-science) and soon Machine Learning Profesional Certificate[IBM] (https://www.coursera.org/professional-certificates/ibm-machine-learning). My hobbies is related to simracing, yugioh, learn italian and english,watch the F1, and any motorsport. i like the coffe and the cats. 
+My name is Manuel Cartín Hernández, and I'm currently pursuing a Bachelor's degree in Data Science at Fidelitas University (https://ufidelitas.ac.cr/). I continue to hone my skills, so I'm studying Data Engineering at IBM (https://www.coursera.org/professional-certificates/ibm-data-engineer). I'm currently completing the IBM Professional Certificate in Data Science (https://www.coursera.org/professional-certificates/ibm-data-science). I'd also like to pursue the IBM Professional Certificate in Machine Learning (https://www.coursera.org/professional-certificates/ibm-machine-learning) soon. - In IBM Deep Learning (https://www.coursera.org/professional-certificates/ibm-deep-learning-with-pytorch-keras-tensorflow)
+- In IBM AI Engineer (https://www.coursera.org/professional-certificates/ai-engineer)
+- In IBM Gen AI Engineer (https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering)
+- in IBM AI Development Engineer (https://www.coursera.org/professional-certificates/applied-artificial-intelligence-ibm-watson-ai)
+- in IBM AI Product Manager (https://www.coursera.org/professional-certificates/ibm-ai-product-manager)
+My hobbies are related to understanding AI projects to provide solutions, although I like to get my hands dirty in technical projects, although of course I trust the team. At work I like to be seen as part of the team and not as the leader who sits on his throne.
 <br/>
 <br/>
 
@@ -17,10 +22,9 @@ I am Manuel Cartín Hernández ,I'm currently pursuing my Bachelors in data scie
 
 
 - 🔭 I’m intrested working on **data proyects for Students.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ** Phyton, java and PowerBI.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ** Phyton, AI models, and AI PM.**
 - 👯 𝙸’𝚖 intrested 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **data proyects for suport other students.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Enjoy the journey.***
 - Skills
   - Python
@@ -28,6 +32,10 @@ I am Manuel Cartín Hernández ,I'm currently pursuing my Bachelors in data scie
   - Linux (basic)
   - Java
   - Algorithms
+  - PM end to end
+  - leadership
+  - curiosity
+  - continuous learning
  
   <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
