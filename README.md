@@ -8,11 +8,15 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 My name is Manuel Cartín Hernández "I am a future hybrid project leader, passionate about the intersection of management and technical development. My focus is on guiding teams toward the creation of innovative solutions, especially in the fields of Artificial Intelligence and Data Science. I strongly believe that effective leadership is built on a deep technical understanding, enabling collaboration and problem-solving in a more agile and efficient manner. My goal is to be an active team member, contributing technical knowledge while facilitating project objectives."
-I'm currently pursuing a Bachelor's degree in Data Science at Fidelitas University (https://ufidelitas.ac.cr/). I continue to hone my skills, so I'm studying Data Engineering at IBM (https://www.coursera.org/professional-certificates/ibm-data-engineer). I'm currently completing the IBM Professional Certificate in Data Science (https://www.coursera.org/professional-certificates/ibm-data-science). I'd also like to pursue the IBM Professional Certificate in Machine Learning (https://www.coursera.org/professional-certificates/ibm-machine-learning) soon. - In IBM Deep Learning (https://www.coursera.org/professional-certificates/ibm-deep-learning-with-pytorch-keras-tensorflow)
+I'm currently pursuing a Bachelor's degree in Data Science at Fidelitas University (https://ufidelitas.ac.cr/). I continue to hone my skills, so I'm studying Data Engineering at IBM (https://www.coursera.org/professional-certificates/ibm-data-engineer). I'm currently completing the IBM Professional Certificate in Data Science (https://www.coursera.org/professional-certificates/ibm-data-science). I'd also like to pursue the IBM Professional Certificate: 
+
+- in Machine Learning (https://www.coursera.org/professional-certificates/ibm-machine-learning) soon.
+- In IBM Deep Learning (https://www.coursera.org/professional-certificates/ibm-deep-learning-with-pytorch-keras-tensorflow)
 - In IBM AI Engineer (https://www.coursera.org/professional-certificates/ai-engineer)
 - In IBM Gen AI Engineer (https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering)
 - in IBM AI Development Engineer (https://www.coursera.org/professional-certificates/applied-artificial-intelligence-ibm-watson-ai)
 - in IBM AI Product Manager (https://www.coursera.org/professional-certificates/ibm-ai-product-manager)
+
 My hobbies are related to understanding AI projects to provide solutions, although I like to get my hands dirty in technical projects, although of course I trust the team. At work I like to be seen as part of the team and not as the leader who sits on his throne.
 <br/>
 <br/>
