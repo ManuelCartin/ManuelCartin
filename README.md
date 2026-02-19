@@ -4,21 +4,25 @@
 </h1>
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  AI Engineer in Training | Applied Modeling | Autonomous Systems | Generative AI
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
-My name is Manuel Cartín Hernández. I am a future AI Engineer with a leadership vision, passionate about combining technical development with the ability to guide others toward innovative solutions.
+MI am a Data Science student focused on applied artificial intelligence, with a strong interest in modeling complex systems and building practical AI solutions. My work combines mathematical analysis, simulation, and machine learning to understand dynamic environments and transform data into structured, actionable systems.
 
-My focus is on building artificial intelligence models and products that deliver real value, while fostering collaboration within teams. I firmly believe that effective leadership stems from a solid technical foundation, which enables informed decision-making, agile problem-solving, and supporting the team through every stage of development.
+## 🚀 Applied Projects
 
-My goal is to grow as an AI engineer who not only develops but also inspires and leads initiatives that make a difference in the field of data science and artificial intelligence.
-I'm currently pursuing a Bachelor's degree in Data Science at [Fidelitas University](https://ufidelitas.ac.cr/). I continue to hone my skills, so I'm studying Data Engineering at IBM (https://www.coursera.org/professional-certificates/ibm-data-engineer). I'm currently completing the IBM Professional Certificate in Data Science (https://www.coursera.org/professional-certificates/ibm-data-science). I'd also like to pursue the IBM Professional Certificate: 
+### 🏎️ Motorsport Brake Thermal Modeling
+Mathematical analysis of brake temperature behavior under different environmental conditions.
+Focus: Risk modeling and system behavior analysis.
 
-- in Machine Learning (https://www.coursera.org/professional-certificates/ibm-machine-learning) soon.
-- In IBM Deep Learning (https://www.coursera.org/professional-certificates/ibm-deep-learning-with-pytorch-keras-tensorflow)
-- In IBM AI Engineer (https://www.coursera.org/professional-certificates/ai-engineer)
-- In IBM Gen AI Engineer (https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering)
-- in IBM AI Development Engineer (https://www.coursera.org/professional-certificates/applied-artificial-intelligence-ibm-watson-ai)
+### 🌧️ Climate & Crime Predictive Analysis
+Explored correlations between weather variables and crime rates using machine learning models.
+
+### 🧠 Synthetic Dataset Generation with Generative AI
+Built a synthetic dataset to train neural networks for perishable product analysis.
+
+### 🕸️ Complex Web Data Extraction
+Extracted structured datasets from poorly formatted HTML sources using custom parsing logic.
 
 My hobbies are related to understanding AI projects to provide solutions, although I like to get my hands dirty in technical projects, although of course I trust the team. At work I like to be seen as part of the team and not as the leader who sits on his throne.
 <br/>
@@ -30,7 +34,7 @@ My hobbies are related to understanding AI projects to provide solutions, althou
 
 
 - 🔭 I’m intrested working on **data proyects for Students.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ** Phyton, AI models, and AI PM.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ** Phyton, AI models, and PINNs.**
 - 👯 𝙸’𝚖 intrested 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **data proyects for suport other students.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Enjoy the journey.***
@@ -38,10 +42,8 @@ My hobbies are related to understanding AI projects to provide solutions, althou
 - Programming Languages: Python, Java
 - Databases: SQL (PostgreSQL, MySQL)
 - Visualization Tools: Matplotlib
-- Management and Leadership Skills:
-- Methodologies: Agile Project Management (Scrum), Kanban
-- Management Tools: Jira, Trello
-- Leadership: Team Leadership, Strategic Communication, Stakeholder Management, Problem Solving
+- Matlab/simulink
+- Motec i2 pro
  
   <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
