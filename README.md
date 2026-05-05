@@ -9,20 +9,45 @@
 </h1>
 MI am a Data Science student focused on applied artificial intelligence, with a strong interest in modeling complex systems and building practical AI solutions. My work combines mathematical analysis, simulation, and machine learning to understand dynamic environments and transform data into structured, actionable systems.
 
-## 🚀 Applied Projects
+Applied Projects
+🏁 Rally Dakar Client-Server Secure System (NEW)
 
-### 🏎️ Motorsport Brake Thermal Modeling
-Mathematical analysis of brake temperature behavior under different environmental conditions.
-Focus: Risk modeling and system behavior analysis.
+Design and implementation of a client-server architecture inspired by rally navigation systems.
 
-### 🌧️ Climate & Crime Predictive Analysis
-Explored correlations between weather variables and crime rates using machine learning models.
+Geolocation-based simulation
+Multilayer security design
+Synthetic decoy data (honeypot-inspired approach)
+Controlled data access and query handling
 
-### 🧠 Synthetic Dataset Generation with Generative AI
-Built a synthetic dataset to train neural networks for perishable product analysis.
+Focus: System architecture, security engineering, and data integrity
 
-### 🕸️ Complex Web Data Extraction
-Extracted structured datasets from poorly formatted HTML sources using custom parsing logic.
+🏎️ Motorsport Brake Thermal Modeling
+
+Mathematical modeling of brake temperature dynamics under racing conditions using Newton's Law of Cooling
+
+Heat dissipation simulation
+Thermal behavior under stress
+Environmental impact on system performance
+
+Focus: Physics-based modeling and system behavior analysis
+
+🌧️ Climate & Crime Predictive Analysis
+
+Exploration of correlations between weather variables and crime rates using machine learning models.
+
+Focus: Predictive modeling and real-world data analysis
+
+🧠 Synthetic Dataset Generation with Generative AI
+
+Development of synthetic datasets for training neural networks in perishable product analysis.
+
+Focus: Data generation, model training, and AI application
+
+🕸️ Complex Web Data Extraction
+
+Extraction of structured datasets from poorly formatted HTML sources using custom parsing techniques.
+
+Focus: Data engineering and unconventional data acquisition
 
 My hobbies are related to understanding AI projects to provide solutions, although I like to get my hands dirty in technical projects, although of course I trust the team. At work I like to be seen as part of the team and not as the leader who sits on his throne.
 <br/>
