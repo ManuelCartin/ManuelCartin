@@ -77,8 +77,6 @@ My hobbies are related to understanding AI projects to provide solutions, althou
 
 ## 🔥 Streak Stats & Languages
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelCartin&theme=algolia" alt="jaypavasiya" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCartin&theme=algolia&layout=compact" alt="jaypavasiya" /></p>
-
 <br>
 <hr/>
 
