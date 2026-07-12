@@ -1,55 +1,51 @@
 <h1 align="center">Hi , I'm Manuel Cartin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
- 
-</h1>
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
   AI Engineer in Training | Applied Modeling | Autonomous Systems | Generative AI
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
-MI am a Data Science student focused on applied artificial intelligence, with a strong interest in modeling complex systems and building practical AI solutions. My work combines mathematical analysis, simulation, and machine learning to understand dynamic environments and transform data into structured, actionable systems.
 
-Applied Projects
-🏁 Rally Dakar Client-Server Secure System (NEW)
+I'm a Data Science Engineering student, but most of what's in this profile didn't start as a class assignment — it started as a question I couldn't leave alone. A brake temperature curve that looked off. A damping coefficient that dropped 48% and I needed to know if that was real damage or just geometry. A gap between telemetry data and how I actually felt behind the wheel. Most of my projects trace back to a specific problem I ran into first, and the modeling came after, as the tool to actually answer it — not the other way around.
 
-Design and implementation of a client-server architecture inspired by rally navigation systems.
+My background is electromechanical, which shapes how I approach data: I care more about whether a result is physically and mechanically sound than about running the fanciest model available. I work across mathematical modeling, simulation, statistical analysis, and applied machine learning, mostly pointed at physical and operational systems — motorsport, logistics, Industry 4.0.
 
-Geolocation-based simulation
-Multilayer security design
-Synthetic decoy data (honeypot-inspired approach)
-Controlled data access and query handling
+---
 
-Focus: System architecture, security engineering, and data integrity
+## Applied Projects
 
-🏎️ Motorsport Brake Thermal Modeling
+### 🌧️ Weather & Crime Operational Risk Analysis
+Combined 530,000+ crime records with 10 years of weather data to test whether environmental conditions actually correlate with crime exposure in Costa Rica — including reconstructing a corrupted source schema before any analysis was possible.
+**Focus:** Data engineering, statistical hypothesis testing, operational risk
 
-Mathematical modeling of brake temperature dynamics under racing conditions using Newton's Law of Cooling
+### 🏎️ Human Control Latency Analysis (Vehicle Telemetry)
+Started from a personal observation: my lap times degrade specifically with paddle shifters but not with H-pattern or sequential shifting. Used 50Hz MoTeC telemetry to actually test that pattern instead of assuming it.
+**Focus:** Time-series analytics, signal processing, human-machine interaction
 
-Heat dissipation simulation
-Thermal behavior under stress
-Environmental impact on system performance
+### 🔧 Vibration Reconstruction & Asset Integrity Analysis
+A curve-fitting optimizer on suspension telemetry returned a 48% drop in effective damping — which looked like damage. Used ODEs, Runge-Kutta integration, and Nelder-Mead optimization to trace it back to a ~2mm geometric displacement instead, and validated that against sensor data and video.
+**Focus:** Numerical methods, predictive maintenance, Industry 4.0
 
-Focus: Physics-based modeling and system behavior analysis
+### 🏁 Rally Dakar Client-Server Secure System
+Client-server architecture inspired by rally navigation systems, exploring how a logistics/geolocation system can stay resilient under adversarial conditions.
+**Focus:** System architecture, security engineering, data integrity
 
-🌧️ Climate & Crime Predictive Analysis
+### 🔥 Motorsport Brake Thermal Modeling
+Physics-based simulation of brake temperature dynamics using Newton's Law of Cooling.
+**Focus:** Physics-based modeling, thermal analysis
 
-Exploration of correlations between weather variables and crime rates using machine learning models.
+### 🧠 Synthetic Data Generation for Stress-Testing
+Built and statistically validated a synthetic dataset simulating perishable-product inventory, designed to stress-test a teammate's neural network model under volume and edge-case conditions — including documenting where the dataset itself fell short (e.g. no stock-zero cases), instead of treating volume as automatic validation.
+**Focus:** Data engineering, synthetic data validation, stress testing
 
-Focus: Predictive modeling and real-world data analysis
+### 🕸️ Complex Web Data Extraction
+Extracted structured datasets from poorly formatted HTML sources using custom parsing techniques, when no clean API or export existed.
+**Focus:** Data engineering, unconventional data acquisition
 
-🧠 Synthetic Dataset Generation with Generative AI
+---
 
-Development of synthetic datasets for training neural networks in perishable product analysis.
+I like being part of the team that's actually in the data, not the one directing from the side. If something looks off in a result, I'd rather spend an extra afternoon figuring out *why* than ship it and move on.
 
-Focus: Data generation, model training, and AI application
-
-🕸️ Complex Web Data Extraction
-
-Extraction of structured datasets from poorly formatted HTML sources using custom parsing techniques.
-
-Focus: Data engineering and unconventional data acquisition
-
-My hobbies are related to understanding AI projects to provide solutions, although I like to get my hands dirty in technical projects, although of course I trust the team. At work I like to be seen as part of the team and not as the leader who sits on his throne.
 <br/>
 <br/>
 
@@ -57,28 +53,32 @@ My hobbies are related to understanding AI projects to provide solutions, althou
 </td>
 <td width="50%" align="left">
 
+- 🔭 Currently working on projects at the intersection of **motorsport telemetry, predictive maintenance, and Industry 4.0**
+- 🌱 Currently learning **Python (deepening), PINNs, and numerical methods for physical systems**
+- 👯 Open to collaborating on **data projects with a real physical or operational problem behind them** — student or professional
+- 💬 Ask me about anything technical here — happy to walk through the reasoning, not just the result
+- ⚡ Fun fact: **most of these projects started because something didn't add up, not because I planned a portfolio piece**
 
-- 🔭 I’m intrested working on **data proyects for Students.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ** Phyton, AI models, and PINNs.**
-- 👯 𝙸’𝚖 intrested 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **data proyects for suport other students.**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Enjoy the journey.***
-- Skills
-- Programming Languages: Python, Java
-- Databases: SQL (PostgreSQL, MySQL)
-- Visualization Tools: Matplotlib
-- Matlab/simulink
-- Motec i2 pro
- 
-  <p align="center">
+## Skills
+
+**Programming:** Python, Java, SQL
+**Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+**Numerical Methods & Simulation:** ODEs, Runge-Kutta (RK4), Nelder-Mead optimization, MATLAB/Simulink
+**Databases:** PostgreSQL, MySQL
+**Telemetry & Motorsport Tools:** MoTeC i2 Pro, Race Studio
+**Visualization:** Matplotlib, Plotly
+**Dev Tools:** Git, GitHub, Docker, Jupyter Notebook
+
+<p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 </p>
 
 ## 🔥 Streak Stats & Languages
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelCartin&theme=algolia" alt="jaypavasiya" /></p>
+
 <br>
 <hr/>
+<br/>
+<br/>
 
-<br/>
-<br/>
