@@ -102,7 +102,7 @@ I'm open to collaborating on projects involving data engineering, operational an
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
+	<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='10%'  style="padding:5px"/>
 </p>
 
 ## 🔥 Streak Stats & Languages
